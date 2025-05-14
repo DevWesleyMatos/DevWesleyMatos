@@ -20,6 +20,8 @@ Um profissional em transição da área de telecomunicações para o desenvolvim
 
 <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWesleyMatos&layout=compact&theme=dracula)
 </div>
 
 ## Cursos | Certicados
@@ -28,5 +30,3 @@ Um profissional em transição da área de telecomunicações para o desenvolvim
 | Introdução a HTML5 e CSS3         | [Certificado](https://exemplo.com/cert.pdf) |
 | Fundamentos do CSS   | [Certificado](https://hermes.dio.me/certificates/87AF8BAD.pdf) |
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWesleyMatos&layout=compact&theme=dracula)

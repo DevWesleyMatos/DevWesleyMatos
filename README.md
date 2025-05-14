@@ -2,11 +2,13 @@
 # Ola sou Wesley Matos
 Um profissional em transição da área de telecomunicações para o desenvolvimento web, com 23 anos de idade e uma paixão crescente por programação
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/DevWesleyMatos)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevWesleyMatos)
-
 
 ![Dev Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=DevWesleyMatos&show_icons=true&theme=radical)
+
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/DevWesleyMatos)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevWesleyMatos)
 
 
 ## Tecnlogoias que eu uso no meu dia
